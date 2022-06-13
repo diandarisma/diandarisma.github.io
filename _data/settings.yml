@@ -1,8 +1,8 @@
 menu:
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Courses', url: '/courses'}
+- {name: 'CV', url: '/cv'}
+- {name: 'Contact', url: '/contact'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
