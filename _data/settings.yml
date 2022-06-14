@@ -16,4 +16,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/dian-darisma-58a96b71'}
 
 contacts:
-- {name: 'Dian Darisma', department: 'Environmental Studies for Advanced Society', institution: 'Tohoku University', institution_address: '1 Main Street', email: 'dian.darisma.s4@dc.tohoku.ac.jp', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {image: 'assets/img/contact.jpg'}
