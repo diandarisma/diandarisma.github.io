@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published"
+title: "Hello World"
 ---
 
 "Hello World"
