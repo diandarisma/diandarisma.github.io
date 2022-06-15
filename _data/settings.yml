@@ -5,9 +5,7 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Seismology', url: 'seismology'}
 
 social:
 - {icon: 'github', link: 'https://github.com/diandarisma'}
