@@ -1,6 +1,6 @@
 featured:
 - name: '2D Gravity Inversion Using Particle Swarm Optimization Method'
-link:'https://www.earthdoc.org/content/papers/10.3997/2214-4609.201702117'
+  url: 'https://www.earthdoc.org/content/papers/10.3997/2214-4609.201702117'
 
 index:
 - {name: '2D Gravity Inversion Using Particle Swarm Optimization Method', link:'https://www.earthdoc.org/content/papers/10.3997/2214-4609.201702117'}
