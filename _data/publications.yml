@@ -1,9 +1,9 @@
 featured:
 - name: |
-  2D Gravity Inversion Using Particle Swarm Optimization Method
-  Dian Darisma, Umar Said, Wahyu Srigutomo
-  23rd European Meeting of Environmental and Engineering Geophysics
+    **2D Gravity Inversion**
+    *Using Particle Swarm Optimization Method*
   url: 'https://www.earthdoc.org/content/papers/10.3997/2214-4609.201702117'
+
 
 index:
 - name: '2D Gravity Inversion Using Particle Swarm Optimization Method'
