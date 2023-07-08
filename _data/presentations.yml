@@ -1,5 +1,17 @@
 index:
 - name: |
+    <em>Building the Fracture Network Model for Okuaizu Geothermal Field Based on Microseismic Data Analysis</em>.
+    <strong>Dian Darisma</strong>, Yusuke Mukuhira, Naoki Aoyogi, Kyosuke Okamoto, Takuya Ishibashi, Hirosi Asanuma, Takatoshi Ito.
+    Stanford Geothermal Workshop,
+    2023.
+  url: 'https://pangea.stanford.edu/ERE/db/GeoConf/papers/SGW/2023/Darisma.pdf'
+- name: |
+    <em>Establishing a new gravity reference station for geophysical investigation and educational purposes: comparison with satellite gravity data in Banda Aceh city, Indonesia</em>.
+    Irwandi Irwandi, <strong>Dian Darisma</strong>, AVH Simanjuntak, Hizir Sofyan, Asrillah.
+     The 1st South East Asia Science, Technology, Engineering and Mathematics International Conference (SEA- STEM IC),
+    2020.
+  url: 'https://iopscience.iop.org/article/10.1088/1742-6596/1882/1/012137/meta'
+- name: |
     <em>2D Gravity Inversion Using Particle Swarm Optimization Method</em>.
     <strong>Dian Darisma</strong>, Umar Said, Wahyu Srigutomo.
     23rd European Meeting of Environmental and Engineering Geophysics,
