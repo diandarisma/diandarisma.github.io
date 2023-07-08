@@ -2,7 +2,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Presentations</h3>
     {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
+      {% for item in site.data.presentations.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
