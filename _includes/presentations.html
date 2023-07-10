@@ -1,13 +1,11 @@
 <div class="row g-5 mb-5">
   <div>
-    {% if page.title == "Home" %}
-      {% for item in site.data.presentations.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.presentations.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Presentations</h3>
+    <h4 class="fw-bold border-bottom pb-3 mb-5">2023</h4>
+    <p>
+      <strong>Dian Darisma</strong>, Yusuke Mukuhira, Naoki Aoyogi, Kyosuke Okamoto, Takuya Ishibashi, Hirosi Asanuma, Takatoshi Ito.
+      <em>Fracture mapping using microseismic data analysis at Okuaizu Geothermal Field</em>.
+      Japan Geoscience Union Meeting, 2023.
+    </p>
   </div>
 </div>
