@@ -44,11 +44,20 @@ Top 3 Quotes
 Notes
 ---
 - Small, better steps can improve ourselves than worse steps.
-- 1% worse every day for one year 0.99<sup>365 = 00.03
-- 1% better every day for one year 1.01<sup>365 = 37.78
+- 1% worse every day for one year 0.99<sup>365</sup> = 00.03
+- 1% better every day for one year 1.01<sup>365</sup> = 37.78
+- The effect of small habits compound over time:
 <figure>
   <img src="/assets/img/book/small-habit.jpeg" alt="participant" width="50%">
-  <figcaption>The effect of small habits compound over time</figcaption>
+</figure>
+- We often expect progress to be linear. At the very least, we hope it will come quickly. In reality, the results of our efforts are often delayed. It is not until months or years later that we realize the true value of the previous work we have done. This can result in a “valley of disappointment” where people feel discouraged after putting in weeks or months of hard work without experiencing any results. However, this work was not wasted. It was simply being stored. It is not until much later that the full value of previous efforts is revealed.
+<figure>
+  <img src="/assets/img/book/plateau.jpeg" alt="participant" width="50%">
+</figure>
+-Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes–Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.
+-Improvement is not just about learning habits, it’s also about fine-tuning them. Reflection and review ensures that you spend your time on the right things and make course corrections whenever necessary—like Pat Riley adjusting the effort of his players on a nightly basis. You don’t want to keep practicing a habit if it becomes ineffective.
+<figure>
+  <img src="/assets/img/book/goldlockszone.jpeg" alt="participant" width="50%">
 </figure>
 - So basically James make 2 reports every year, first Annual Review and Integrity Report.
     - Annual Review
