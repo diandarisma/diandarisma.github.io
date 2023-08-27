@@ -1,4 +1,4 @@
 ---
-layout: post
+layout: page
 title: "Atomic Habits (James Clear)"
 ---
