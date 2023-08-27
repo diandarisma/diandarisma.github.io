@@ -4,4 +4,16 @@ layout: default
 
 {{ content }}
 
-{% include booknotes.html %}
+<h3 class="fw-bold border-bottom pb-3 mb-5">People</h3>
+{% for book in site.data.settings.booknotes %}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h5>{{ tittle.book }}</h5>
+    <p>{{ book.impression }}</p>
+    <p><a href="{{ site.github.url }}/booknotes/{{ book.url }}">More info</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ book.image }}" alt="Contact" width="70%">
+  </div>
+</div>
+{% endfor %}
