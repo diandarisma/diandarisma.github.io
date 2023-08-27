@@ -11,7 +11,7 @@ courses:
 - {name: 'Seismology', url: 'seismology'}
 
 booknotes:
-- {tittle: 'Atomic Habits', impression: 'This book is increasing my productivity. Sometimes people don’t know how to start working, but we can make it simple to make our work into small steps. So we can start from that part, although we make little progress because it is better than none. 'image: 'assets/img/atomichabits.jpeg', url: 'atomichabits'}
+- {tittle: 'Atomic Habits', impression: 'This book is increasing my productivity. Sometimes people don’t know how to start working, but we can make it simple to make our work into small steps. So we can start from that part, although we make little progress because it is better than none.', image: 'assets/img/atomichabits.jpeg', url: 'atomichabits'}
 
 social:
 - {icon: 'github', link: 'https://github.com/diandarisma'}
