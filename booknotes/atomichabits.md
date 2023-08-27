@@ -1,4 +1,6 @@
 ---
 layout: page
-title: "Atomic Habits (James Clear)"
+title: "Graduate Student"
 ---
+
+Researcher - Physics & Astronomy
