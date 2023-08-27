@@ -2,10 +2,9 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Book Notes</h3>
     <div class="row g-5 mb-5">
-      <figure>
-        <img src="https://m.media-amazon.com/images/I/91bYsX41DVL._AC_UF1000,1000_QL80_.jpg" alt="atomichabit" width="30%">
-        <figcaption>Atomic Habits</figcaption>
-      </figure>
+    {% for post in site.booknotes %}
+      <p><a href="{{ site.github.url }}/{{ booknotes.url }}">{{ post.title }}</a></p>
+    {% endfor %}
     </div>
   </div>
 </div>
