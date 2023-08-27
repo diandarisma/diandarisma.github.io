@@ -3,6 +3,7 @@ menu:
 - {name: 'Presentations', url: '/presentations'}
 - {name: 'Courses', url: '/courses'}
 - {name: 'Travels', url: '/travels'}
+- {name: 'Book Notes', url: '/booknotes'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Contact', url: '/contact'}
 
