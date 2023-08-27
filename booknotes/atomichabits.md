@@ -54,8 +54,8 @@ Notes
 <figure>
   <img src="/assets/img/book/plateau.jpeg" alt="participant" width="50%">
 </figure>
--Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes–Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.
--Improvement is not just about learning habits, it’s also about fine-tuning them. Reflection and review ensures that you spend your time on the right things and make course corrections whenever necessary—like Pat Riley adjusting the effort of his players on a nightly basis. You don’t want to keep practicing a habit if it becomes ineffective.
+- Maximum motivation occurs when facing a challenge of just manageable difficulty. In psychology research this is known as the Yerkes–Dodson law, which describes the optimal level of arousal as the midpoint between boredom and anxiety.
+- Improvement is not just about learning habits, it’s also about fine-tuning them. Reflection and review ensures that you spend your time on the right things and make course corrections whenever necessary—like Pat Riley adjusting the effort of his players on a nightly basis. You don’t want to keep practicing a habit if it becomes ineffective.
 <figure>
   <img src="/assets/img/book/goldlockszone.jpeg" alt="participant" width="50%">
 </figure>
