@@ -4,4 +4,5 @@ title: "Home"
 ---
 
 I am an Assistant Professor at Geophysical Engineering Department, University of Syiah Kuala, Indonesia. I finish my PhD at the Laboratory of Earth Resources Geomechanic, Tohoku University supervised by Prof. Yusuke Mukuhira. My PhD project focuses on induced seismicity that is triggered during injection. We want to extract fractures network based on microseismic clusters distribution.<br>
-I am also interested in other geophysical methods, e.g., gravity, magnetic, and geoelectrical methods, to solve environmental issues and hazards.
+I am also interested in other geophysical methods, e.g., gravity, magnetic, and geoelectrical methods, to solve environmental issues and hazards. <br>
+If you share similar research interests, I would be delighted to explore potential collaboration opportunities with you. Feel free to reach out!
