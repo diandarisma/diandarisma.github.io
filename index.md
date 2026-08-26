@@ -9,4 +9,4 @@ I am also interested in other geophysical methods, e.g., gravity, magnetic, and 
 Current active project:<br>
 1. Microseismic study at Muara Laboh geothermal field. <br>
 2. Magnetotelluric and Seismic Tomography at Arun Gas Field. <br>
-3. MASW and HVSR study at Aceh Besar region.
+3. MASW and HVSR study at Aceh Region.
